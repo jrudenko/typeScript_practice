@@ -20,5 +20,9 @@
   "homepage": "https://github.com/jrudenko/typeScript_practice#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bs-config": "^0.1.6",
+    "connect-history-api-fallback": "^2.0.0"
   }
 }
