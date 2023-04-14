@@ -1,7 +1,6 @@
 {
   "name": "typescript_practice",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -24,5 +23,6 @@
   "dependencies": {
     "bs-config": "^0.1.6",
     "connect-history-api-fallback": "^2.0.0"
-  }
+  },
+  "description": ""
 }
